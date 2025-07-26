@@ -3,6 +3,7 @@ my leetcode submissions
 
 Trapping rain water
 my solution:
+```Java
 class Solution {
     public int trap(int[] height) {
         int totalwater=0;
@@ -39,3 +40,5 @@ class Solution {
         }
     }
 }
+```
+
